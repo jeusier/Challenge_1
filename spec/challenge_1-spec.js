@@ -14,7 +14,7 @@ describe("Sum of a Multiple", function () {
 
   // when your tests pass, uncomment the next two and
   // change the expected value to your calculated result
-  /*
+  
   it("should return 'x' for n=1000 (see challenge_1-spec.js)", function () {
     var sum = challenge_1.sumOfAMultiple(1000);
     expect(sum).toBe(0);
@@ -24,6 +24,6 @@ describe("Sum of a Multiple", function () {
     var sum = challenge_1.sumOfAMultiple(10000);
     expect(sum).toBe(0); // you change this value to the correct sum!
   });
-  */
+  
   
 });    
